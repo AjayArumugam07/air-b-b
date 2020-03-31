@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "Air_B&B",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

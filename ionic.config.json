@@ -1,0 +1,7 @@
+{
+  "name": "Air_B&B",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
